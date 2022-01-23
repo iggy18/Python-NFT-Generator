@@ -98,3 +98,13 @@ shell = {
     "hat": None,
     "facial_hair": None
 }
+
+MEGA_DICT = {
+    "name": name,
+    "head": head, 
+    "eyes": eyes,
+    "nose": nose,
+    "mouth": mouth,
+    "hat": hat, 
+    "facial_hair": facial_hair
+}

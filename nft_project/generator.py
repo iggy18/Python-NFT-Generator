@@ -1,17 +1,8 @@
-from char import NFT
-from attrs import name, head, eyes, nose, mouth, hat, facial_hair, shell
-
 import random
+from timer import speed
 
-MEGA_DICT = {
-    "name": name,
-    "head": head, 
-    "eyes": eyes,
-    "nose": nose,
-    "mouth": mouth,
-    "hat": hat, 
-    "facial_hair": facial_hair
-}
+from attrs import MEGA_DICT, shell
+
 
 def generate_random_number_dict(dict_name):
     random_number_dict = {}
@@ -28,6 +19,7 @@ def assembler():
     return assembled
     
 
+@speed
 def multiplier(int):
     for i in range(int):
-        print(assembler())
+        x = assembler()
