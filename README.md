@@ -1,24 +1,7 @@
-this is a toy project that will eventually generate an NFT collection with provided layered assets
+this project will take layers and smoosh them into as many images as you want.
 
-at first it will just generate the collection, but eventually I will try to hook it up to the Etherium network.
+![Sample](./nft_project/results/skinny-steve8.png)
 
-todo:
+figuring out nft generative art.
 
-class that will represent the NFT
-    head, mouth, eyes, nose, hat, facial hair
-
-    start with strings + a number
-    and then we will figure out use images
-
-
-
-choose random assets to make a char
-
-
-figure out rarity model
-
-
-figure out how to hook up to Etherium network
-
-
-write a smart contract
+current state: makes pretty pictures. has nothing to do with blockchains yet.
