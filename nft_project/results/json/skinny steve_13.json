@@ -1,0 +1,29 @@
+{
+    "name": "skinny steve_13",
+    "image": "www.testing.com/skinny steve_13",
+    "description": "the result of an ASMR NFT maker tutorial... of all things.",
+    "edition": "13",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "redback"
+        },
+        {
+            "trait_type": "head",
+            "value": "greenhead"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "winkeyes"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "smirkmouth"
+        },
+        {
+            "display_type": "number",
+            "trait_type": "rarity",
+            "value": "40.0"
+        }
+    ]
+}

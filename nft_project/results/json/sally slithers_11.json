@@ -1,0 +1,29 @@
+{
+    "name": "sally slithers_11",
+    "image": "www.testing.com/sally slithers_11",
+    "description": "the result of an ASMR NFT maker tutorial... of all things.",
+    "edition": "11",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "redback"
+        },
+        {
+            "trait_type": "head",
+            "value": "bluehead"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "commoneyes"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "flatmouth"
+        },
+        {
+            "display_type": "number",
+            "trait_type": "rarity",
+            "value": "16.0"
+        }
+    ]
+}

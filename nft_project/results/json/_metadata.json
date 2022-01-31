@@ -1,0 +1,727 @@
+[
+    {
+        "name": "skinny steve_0",
+        "image": "www.testing.com/skinny steve_0",
+        "description": "the result of an ASMR NFT maker tutorial... of all things.",
+        "edition": "0",
+        "attributes": [
+            {
+                "trait_type": "background",
+                "value": "cyanback"
+            },
+            {
+                "trait_type": "head",
+                "value": "purplehead"
+            },
+            {
+                "trait_type": "eyes",
+                "value": "wonkeyeyes"
+            },
+            {
+                "trait_type": "mouth",
+                "value": "smilemouth"
+            },
+            {
+                "display_type": "number",
+                "trait_type": "rarity",
+                "value": "40.0"
+            }
+        ]
+    },
+    {
+        "name": "karen_1",
+        "image": "www.testing.com/karen_1",
+        "description": "the result of an ASMR NFT maker tutorial... of all things.",
+        "edition": "1",
+        "attributes": [
+            {
+                "trait_type": "background",
+                "value": "redback"
+            },
+            {
+                "trait_type": "head",
+                "value": "bluehead"
+            },
+            {
+                "trait_type": "eyes",
+                "value": "geareyes"
+            },
+            {
+                "trait_type": "mouth",
+                "value": "smirkmouth"
+            },
+            {
+                "display_type": "number",
+                "trait_type": "rarity",
+                "value": "4.0"
+            }
+        ]
+    },
+    {
+        "name": "skinny steve_2",
+        "image": "www.testing.com/skinny steve_2",
+        "description": "the result of an ASMR NFT maker tutorial... of all things.",
+        "edition": "2",
+        "attributes": [
+            {
+                "trait_type": "background",
+                "value": "darkback"
+            },
+            {
+                "trait_type": "head",
+                "value": "bluehead"
+            },
+            {
+                "trait_type": "eyes",
+                "value": "wonkeyeyes"
+            },
+            {
+                "trait_type": "mouth",
+                "value": "flatmouth"
+            },
+            {
+                "display_type": "number",
+                "trait_type": "rarity",
+                "value": "40.0"
+            }
+        ]
+    },
+    {
+        "name": "jim_3",
+        "image": "www.testing.com/jim_3",
+        "description": "the result of an ASMR NFT maker tutorial... of all things.",
+        "edition": "3",
+        "attributes": [
+            {
+                "trait_type": "background",
+                "value": "redback"
+            },
+            {
+                "trait_type": "head",
+                "value": "greenhead"
+            },
+            {
+                "trait_type": "eyes",
+                "value": "commoneyes"
+            },
+            {
+                "trait_type": "mouth",
+                "value": "flatmouth"
+            },
+            {
+                "display_type": "number",
+                "trait_type": "rarity",
+                "value": "12.0"
+            }
+        ]
+    },
+    {
+        "name": "jim_4",
+        "image": "www.testing.com/jim_4",
+        "description": "the result of an ASMR NFT maker tutorial... of all things.",
+        "edition": "4",
+        "attributes": [
+            {
+                "trait_type": "background",
+                "value": "redback"
+            },
+            {
+                "trait_type": "head",
+                "value": "bluehead"
+            },
+            {
+                "trait_type": "eyes",
+                "value": "wonkeyeyes"
+            },
+            {
+                "trait_type": "mouth",
+                "value": "flatmouth"
+            },
+            {
+                "display_type": "number",
+                "trait_type": "rarity",
+                "value": "12.0"
+            }
+        ]
+    },
+    {
+        "name": "skinny steve_5",
+        "image": "www.testing.com/skinny steve_5",
+        "description": "the result of an ASMR NFT maker tutorial... of all things.",
+        "edition": "5",
+        "attributes": [
+            {
+                "trait_type": "background",
+                "value": "redback"
+            },
+            {
+                "trait_type": "head",
+                "value": "bluehead"
+            },
+            {
+                "trait_type": "eyes",
+                "value": "wonkeyeyes"
+            },
+            {
+                "trait_type": "mouth",
+                "value": "openmouth"
+            },
+            {
+                "display_type": "number",
+                "trait_type": "rarity",
+                "value": "40.0"
+            }
+        ]
+    },
+    {
+        "name": "sally slithers_6",
+        "image": "www.testing.com/sally slithers_6",
+        "description": "the result of an ASMR NFT maker tutorial... of all things.",
+        "edition": "6",
+        "attributes": [
+            {
+                "trait_type": "background",
+                "value": "darkback"
+            },
+            {
+                "trait_type": "head",
+                "value": "bluehead"
+            },
+            {
+                "trait_type": "eyes",
+                "value": "crosseyes"
+            },
+            {
+                "trait_type": "mouth",
+                "value": "smilemouth"
+            },
+            {
+                "display_type": "number",
+                "trait_type": "rarity",
+                "value": "16.0"
+            }
+        ]
+    },
+    {
+        "name": "skinny steve_7",
+        "image": "www.testing.com/skinny steve_7",
+        "description": "the result of an ASMR NFT maker tutorial... of all things.",
+        "edition": "7",
+        "attributes": [
+            {
+                "trait_type": "background",
+                "value": "cyanback"
+            },
+            {
+                "trait_type": "head",
+                "value": "purplehead"
+            },
+            {
+                "trait_type": "eyes",
+                "value": "geareyes"
+            },
+            {
+                "trait_type": "mouth",
+                "value": "openmouth"
+            },
+            {
+                "display_type": "number",
+                "trait_type": "rarity",
+                "value": "40.0"
+            }
+        ]
+    },
+    {
+        "name": "shaky jones_8",
+        "image": "www.testing.com/shaky jones_8",
+        "description": "the result of an ASMR NFT maker tutorial... of all things.",
+        "edition": "8",
+        "attributes": [
+            {
+                "trait_type": "background",
+                "value": "yellowback"
+            },
+            {
+                "trait_type": "head",
+                "value": "bluehead"
+            },
+            {
+                "trait_type": "eyes",
+                "value": "winkeyes"
+            },
+            {
+                "trait_type": "mouth",
+                "value": "smilemouth"
+            },
+            {
+                "display_type": "number",
+                "trait_type": "rarity",
+                "value": "20.0"
+            }
+        ]
+    },
+    {
+        "name": "Shinigami_9",
+        "image": "www.testing.com/Shinigami_9",
+        "description": "the result of an ASMR NFT maker tutorial... of all things.",
+        "edition": "9",
+        "attributes": [
+            {
+                "trait_type": "background",
+                "value": "darkback"
+            },
+            {
+                "trait_type": "head",
+                "value": "bluehead"
+            },
+            {
+                "trait_type": "eyes",
+                "value": "commoneyes"
+            },
+            {
+                "trait_type": "mouth",
+                "value": "smirkmouth"
+            },
+            {
+                "display_type": "number",
+                "trait_type": "rarity",
+                "value": "4.0"
+            }
+        ]
+    },
+    {
+        "name": "shaky jones_10",
+        "image": "www.testing.com/shaky jones_10",
+        "description": "the result of an ASMR NFT maker tutorial... of all things.",
+        "edition": "10",
+        "attributes": [
+            {
+                "trait_type": "background",
+                "value": "redback"
+            },
+            {
+                "trait_type": "head",
+                "value": "greenhead"
+            },
+            {
+                "trait_type": "eyes",
+                "value": "commoneyes"
+            },
+            {
+                "trait_type": "mouth",
+                "value": "smirkmouth"
+            },
+            {
+                "display_type": "number",
+                "trait_type": "rarity",
+                "value": "20.0"
+            }
+        ]
+    },
+    {
+        "name": "sally slithers_11",
+        "image": "www.testing.com/sally slithers_11",
+        "description": "the result of an ASMR NFT maker tutorial... of all things.",
+        "edition": "11",
+        "attributes": [
+            {
+                "trait_type": "background",
+                "value": "redback"
+            },
+            {
+                "trait_type": "head",
+                "value": "bluehead"
+            },
+            {
+                "trait_type": "eyes",
+                "value": "commoneyes"
+            },
+            {
+                "trait_type": "mouth",
+                "value": "flatmouth"
+            },
+            {
+                "display_type": "number",
+                "trait_type": "rarity",
+                "value": "16.0"
+            }
+        ]
+    },
+    {
+        "name": "skinny steve_12",
+        "image": "www.testing.com/skinny steve_12",
+        "description": "the result of an ASMR NFT maker tutorial... of all things.",
+        "edition": "12",
+        "attributes": [
+            {
+                "trait_type": "background",
+                "value": "darkback"
+            },
+            {
+                "trait_type": "head",
+                "value": "purplehead"
+            },
+            {
+                "trait_type": "eyes",
+                "value": "wonkeyeyes"
+            },
+            {
+                "trait_type": "mouth",
+                "value": "openmouth"
+            },
+            {
+                "display_type": "number",
+                "trait_type": "rarity",
+                "value": "40.0"
+            }
+        ]
+    },
+    {
+        "name": "skinny steve_13",
+        "image": "www.testing.com/skinny steve_13",
+        "description": "the result of an ASMR NFT maker tutorial... of all things.",
+        "edition": "13",
+        "attributes": [
+            {
+                "trait_type": "background",
+                "value": "redback"
+            },
+            {
+                "trait_type": "head",
+                "value": "greenhead"
+            },
+            {
+                "trait_type": "eyes",
+                "value": "winkeyes"
+            },
+            {
+                "trait_type": "mouth",
+                "value": "smirkmouth"
+            },
+            {
+                "display_type": "number",
+                "trait_type": "rarity",
+                "value": "40.0"
+            }
+        ]
+    },
+    {
+        "name": "skinny steve_14",
+        "image": "www.testing.com/skinny steve_14",
+        "description": "the result of an ASMR NFT maker tutorial... of all things.",
+        "edition": "14",
+        "attributes": [
+            {
+                "trait_type": "background",
+                "value": "cyanback"
+            },
+            {
+                "trait_type": "head",
+                "value": "bluehead"
+            },
+            {
+                "trait_type": "eyes",
+                "value": "wonkeyeyes"
+            },
+            {
+                "trait_type": "mouth",
+                "value": "flatmouth"
+            },
+            {
+                "display_type": "number",
+                "trait_type": "rarity",
+                "value": "40.0"
+            }
+        ]
+    },
+    {
+        "name": "skinny steve_15",
+        "image": "www.testing.com/skinny steve_15",
+        "description": "the result of an ASMR NFT maker tutorial... of all things.",
+        "edition": "15",
+        "attributes": [
+            {
+                "trait_type": "background",
+                "value": "redback"
+            },
+            {
+                "trait_type": "head",
+                "value": "purplehead"
+            },
+            {
+                "trait_type": "eyes",
+                "value": "winkeyes"
+            },
+            {
+                "trait_type": "mouth",
+                "value": "smilemouth"
+            },
+            {
+                "display_type": "number",
+                "trait_type": "rarity",
+                "value": "40.0"
+            }
+        ]
+    },
+    {
+        "name": "sally slithers_16",
+        "image": "www.testing.com/sally slithers_16",
+        "description": "the result of an ASMR NFT maker tutorial... of all things.",
+        "edition": "16",
+        "attributes": [
+            {
+                "trait_type": "background",
+                "value": "redback"
+            },
+            {
+                "trait_type": "head",
+                "value": "bluehead"
+            },
+            {
+                "trait_type": "eyes",
+                "value": "wonkeyeyes"
+            },
+            {
+                "trait_type": "mouth",
+                "value": "smirkmouth"
+            },
+            {
+                "display_type": "number",
+                "trait_type": "rarity",
+                "value": "16.0"
+            }
+        ]
+    },
+    {
+        "name": "sally slithers_17",
+        "image": "www.testing.com/sally slithers_17",
+        "description": "the result of an ASMR NFT maker tutorial... of all things.",
+        "edition": "17",
+        "attributes": [
+            {
+                "trait_type": "background",
+                "value": "purpleback"
+            },
+            {
+                "trait_type": "head",
+                "value": "purplehead"
+            },
+            {
+                "trait_type": "eyes",
+                "value": "commoneyes"
+            },
+            {
+                "trait_type": "mouth",
+                "value": "flatmouth"
+            },
+            {
+                "display_type": "number",
+                "trait_type": "rarity",
+                "value": "16.0"
+            }
+        ]
+    },
+    {
+        "name": "shaky jones_18",
+        "image": "www.testing.com/shaky jones_18",
+        "description": "the result of an ASMR NFT maker tutorial... of all things.",
+        "edition": "18",
+        "attributes": [
+            {
+                "trait_type": "background",
+                "value": "yellowback"
+            },
+            {
+                "trait_type": "head",
+                "value": "bluehead"
+            },
+            {
+                "trait_type": "eyes",
+                "value": "wonkeyeyes"
+            },
+            {
+                "trait_type": "mouth",
+                "value": "openmouth"
+            },
+            {
+                "display_type": "number",
+                "trait_type": "rarity",
+                "value": "20.0"
+            }
+        ]
+    },
+    {
+        "name": "shaky jones_19",
+        "image": "www.testing.com/shaky jones_19",
+        "description": "the result of an ASMR NFT maker tutorial... of all things.",
+        "edition": "19",
+        "attributes": [
+            {
+                "trait_type": "background",
+                "value": "darkback"
+            },
+            {
+                "trait_type": "head",
+                "value": "whitehead"
+            },
+            {
+                "trait_type": "eyes",
+                "value": "crosseyes"
+            },
+            {
+                "trait_type": "mouth",
+                "value": "smilemouth"
+            },
+            {
+                "display_type": "number",
+                "trait_type": "rarity",
+                "value": "20.0"
+            }
+        ]
+    },
+    {
+        "name": "shaky jones_20",
+        "image": "www.testing.com/shaky jones_20",
+        "description": "the result of an ASMR NFT maker tutorial... of all things.",
+        "edition": "20",
+        "attributes": [
+            {
+                "trait_type": "background",
+                "value": "redback"
+            },
+            {
+                "trait_type": "head",
+                "value": "purplehead"
+            },
+            {
+                "trait_type": "eyes",
+                "value": "geareyes"
+            },
+            {
+                "trait_type": "mouth",
+                "value": "smilemouth"
+            },
+            {
+                "display_type": "number",
+                "trait_type": "rarity",
+                "value": "20.0"
+            }
+        ]
+    },
+    {
+        "name": "skinny steve_21",
+        "image": "www.testing.com/skinny steve_21",
+        "description": "the result of an ASMR NFT maker tutorial... of all things.",
+        "edition": "21",
+        "attributes": [
+            {
+                "trait_type": "background",
+                "value": "yellowback"
+            },
+            {
+                "trait_type": "head",
+                "value": "purplehead"
+            },
+            {
+                "trait_type": "eyes",
+                "value": "wonkeyeyes"
+            },
+            {
+                "trait_type": "mouth",
+                "value": "flatmouth"
+            },
+            {
+                "display_type": "number",
+                "trait_type": "rarity",
+                "value": "40.0"
+            }
+        ]
+    },
+    {
+        "name": "skinny steve_22",
+        "image": "www.testing.com/skinny steve_22",
+        "description": "the result of an ASMR NFT maker tutorial... of all things.",
+        "edition": "22",
+        "attributes": [
+            {
+                "trait_type": "background",
+                "value": "cyanback"
+            },
+            {
+                "trait_type": "head",
+                "value": "purplehead"
+            },
+            {
+                "trait_type": "eyes",
+                "value": "commoneyes"
+            },
+            {
+                "trait_type": "mouth",
+                "value": "smirkmouth"
+            },
+            {
+                "display_type": "number",
+                "trait_type": "rarity",
+                "value": "40.0"
+            }
+        ]
+    },
+    {
+        "name": "jim_23",
+        "image": "www.testing.com/jim_23",
+        "description": "the result of an ASMR NFT maker tutorial... of all things.",
+        "edition": "23",
+        "attributes": [
+            {
+                "trait_type": "background",
+                "value": "cyanback"
+            },
+            {
+                "trait_type": "head",
+                "value": "purplehead"
+            },
+            {
+                "trait_type": "eyes",
+                "value": "wonkeyeyes"
+            },
+            {
+                "trait_type": "mouth",
+                "value": "openmouth"
+            },
+            {
+                "display_type": "number",
+                "trait_type": "rarity",
+                "value": "12.0"
+            }
+        ]
+    },
+    {
+        "name": "billy bones_24",
+        "image": "www.testing.com/billy bones_24",
+        "description": "the result of an ASMR NFT maker tutorial... of all things.",
+        "edition": "24",
+        "attributes": [
+            {
+                "trait_type": "background",
+                "value": "darkback"
+            },
+            {
+                "trait_type": "head",
+                "value": "purplehead"
+            },
+            {
+                "trait_type": "eyes",
+                "value": "crosseyes"
+            },
+            {
+                "trait_type": "mouth",
+                "value": "smirkmouth"
+            },
+            {
+                "display_type": "number",
+                "trait_type": "rarity",
+                "value": "4.0"
+            }
+        ]
+    }
+]

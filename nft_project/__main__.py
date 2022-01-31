@@ -1,8 +1,8 @@
 from image_blender import make_images
-from generator import generate_list
+from config import NUMBER_OF_DESIRED_IMAGES
 
 
 
 if __name__ == '__main__':
 
-    make_images(1)
+    make_images(NUMBER_OF_DESIRED_IMAGES)

@@ -1,0 +1,29 @@
+{
+    "name": "karen_1",
+    "image": "www.testing.com/karen_1",
+    "description": "the result of an ASMR NFT maker tutorial... of all things.",
+    "edition": "1",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "redback"
+        },
+        {
+            "trait_type": "head",
+            "value": "bluehead"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "geareyes"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "smirkmouth"
+        },
+        {
+            "display_type": "number",
+            "trait_type": "rarity",
+            "value": "4.0"
+        }
+    ]
+}

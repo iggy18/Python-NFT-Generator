@@ -6,7 +6,7 @@ name = [
     "jim",
     "sally slithers",
     "death queen",
-    "shinigami",
+    "Shinigami",
     "skinny steve",
     "karen"
 ]

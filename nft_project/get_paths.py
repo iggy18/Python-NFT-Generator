@@ -2,8 +2,11 @@ import os
 
 NFT_FOLDER = "nft_project/nft"
 
+def get_top_folders():
+    return os.listdir(NFT_FOLDER)
+
 def get_attributes_from_nft_folder():
-    nft_attributes = os.listdir(NFT_FOLDER)
+    nft_attributes = get_top_folders()
     attribute_dict = dict.fromkeys(nft_attributes, "None")
     
     for attribute in nft_attributes:

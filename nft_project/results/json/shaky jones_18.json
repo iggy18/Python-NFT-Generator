@@ -1,0 +1,29 @@
+{
+    "name": "shaky jones_18",
+    "image": "www.testing.com/shaky jones_18",
+    "description": "the result of an ASMR NFT maker tutorial... of all things.",
+    "edition": "18",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "yellowback"
+        },
+        {
+            "trait_type": "head",
+            "value": "bluehead"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "wonkeyeyes"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "openmouth"
+        },
+        {
+            "display_type": "number",
+            "trait_type": "rarity",
+            "value": "20.0"
+        }
+    ]
+}

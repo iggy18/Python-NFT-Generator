@@ -1,4 +1,3 @@
-from calendar import c
 import random
 
 from lists import name as name_list
@@ -6,13 +5,21 @@ from get_paths import get_attributes_from_nft_folder, construct_path
 
 ATTRIBUTES = get_attributes_from_nft_folder()
 
+CSV_HEADERS = ["Name", "Background", "Head", "Eyes", "Mouth", "Edition", "Rarity"]
+
+NUMBER_OF_DESIRED_IMAGES = 25
+
+BASE_NAME = "ASMR skull #"
+
+BASE_IMAGE_URL = "www.testing.com/"
+
 def pick_attribute_for(attribute):
     weights_dict = {
-        "name" : [10, 10, 10, 2, 14, 10, 10, 14, 10, 10],
-        "background" : [20, 35, 5, 30, 10],
+        "name" : [10, 20, 10, 1, 14, 15, 10, 5, 30, 10],
+        "background" : [20, 35, 5, 50, 10],
         "eyes" : [20, 10, 10, 1, 19, 40],
         "head" : [40, 10, 35, 20, 1],
-        "mouth" : [5, 35, 20, 15, 25]
+        "mouth" : [.5, 35, 20, 15, 25]
     }
 
     choice = None
