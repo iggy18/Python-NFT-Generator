@@ -1,4 +1,4 @@
-this project will take layers and smoosh them into as many images as you want.
+# this project will take layers and smoosh them into as many images as you want.
 
 you give the program a bunch of layers that look like this:
 
@@ -14,23 +14,23 @@ and it smooshes them together until you get a single image. it does this as many
 
 current state: makes pretty pictures. has nothing to do with blockchains yet.
 
-updates:
+## updates:
 
-program now makes paths by looking into the nft folder and finding all the files.
-now all images are verified as unique
-you can now add weights to increase or decrease the rarity of attributes.
-can calculate the rarity of attributes
-can generate metadata in json format
-can generate individual json files for each image
-can generate a csv file with all the metadata
+- program now makes paths by looking into the nft folder and finding all the files.
+- now all images are verified as unique
+- you can now add weights to increase or decrease the rarity of attributes.
+- can calculate the rarity of attributes
+- can generate metadata in json format
+- can generate individual json files for each image
+- can generate a csv file with all the metadata
 
-needs updates:
-need a way to handle infinite loop by asking for more unique images than possible with the given attributes.
-calculate possible combinations of attributes and warn if not enough layers for desired output
-refactor code to make it more readable
-refactor code to make it more efficient
-refactor code to make it more modular
-i might want to redo how the image paths are stored in the class so I don't need to split to get traits
+## needs updates:
+- need a way to handle infinite loop by asking for more unique images than possible with the given attributes.
+- calculate possible combinations of attributes and warn if not enough layers for desired output
+- refactor code to make it more readable
+- refactor code to make it more efficient
+- refactor code to make it more modular
+- I might want to redo how the image paths are stored in the class so I don't need to split to get traits
 
 if you want to try this yourself...
 clone the repo:
