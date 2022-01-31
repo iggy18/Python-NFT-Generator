@@ -1,9 +1,10 @@
 this project will take layers and smoosh them into as many images as you want.
 
 you give the program a bunch of layers that look like this:
-![Sample](nft_project/nft/eyes/common.png)
-![Sample](nft_project/nft/head/yellow.png)
-
+![Sample](nft_project/nft/head/cyanback.png)
+![Sample](nft_project/nft/eyes/commoneyes.png)
+![Sample](nft_project/nft/head/yellowhead.png)
+![Sample](nft_project/nft/head/smilemouth.png)
 and it smooshes them together until you get a single image. it does this as many times as you want:
 ![Sample](nft_project/results/billy%20bones11.png)
 
